@@ -1,0 +1,36 @@
+li.card {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 30px;
+}
+
+li .card-body {
+    backdrop-filter: blur(5px) grayscale(90%);
+}
+
+li .card-body:hover,
+li .card-body:focus {
+    cursor: pointer;
+    backdrop-filter: blur(0.5px);
+}
+
+.card-spacer {
+    height: 150px;
+}
+
+.card .card-body .card-title {
+    font-size: xx-large;
+    color:antiquewhite;
+    text-shadow: 2px 2px 3px #000;
+    font-weight: bolder;
+}
+
+.card .card-body .card-text {
+    color:darkgoldenrod;
+    font-weight: bolder;
+    font-size: larger;
+    text-shadow: 1px 1px 1px #000;
+}
+

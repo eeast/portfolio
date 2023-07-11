@@ -1,7 +1,5 @@
-import './App.css';
+import PageContainer from "./components/PageContainer";
 
-import PortfolioContainer from "./components/PortfolioContainer";
-
-const App = () => <PortfolioContainer />;
+const App = () => <PageContainer />
 
 export default App;

@@ -1,0 +1,25 @@
+.navbar {
+    background-color: darkred;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+.navbar a,
+.navbar h1 {
+    color: antiquewhite;
+}
+
+.navbar .nav-item a:hover,
+.navbar .nav-item .nav-link.active {
+    color:grey;
+}
+
+.navbar h1 {
+    font-size: xx-large;
+}
+
+.navbar h1:hover {
+    color:antiquewhite;
+}
