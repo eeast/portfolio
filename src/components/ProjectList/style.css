@@ -3,7 +3,7 @@ li.card {
     margin-bottom: 1%;
     background-size: cover;
     overflow: hidden;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 li .card-body {
@@ -32,5 +32,9 @@ li .card-body:focus {
     font-weight: bolder;
     font-size: larger;
     text-shadow: 1px 1px 1px #000;
+}
+
+#github-link {
+    border-radius: 10px;
 }
 

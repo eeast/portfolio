@@ -23,6 +23,14 @@ const ProjectList = () => {
             imgLink: images.noSQLImg,
         },
         {
+            name: "Tech Blog Web App",
+            description: "Simple web blog application",
+            tools: "Sequelize, MySQL, BCrypt, Handlebars",
+            github: "https://github.com/eeast/Tech-Blog",
+            deployedURL: "https://eeast-tech-blog-a2d8c6ae77bb.herokuapp.com/",
+            imgLink: images.techBlogImg,
+        },
+        {
             name: "E-Commerce API",
             description: "API application for E-commerce",
             tools: "Sequelize, Express, and MySQL2",
