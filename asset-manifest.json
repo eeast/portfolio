@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.96d8609a.css",
-    "main.js": "/portfolio/static/js/main.a89f2776.js",
+    "main.js": "/portfolio/static/js/main.223773ad.js",
+    "static/media/GP3-Schedaddy_01.png": "/portfolio/static/media/GP3-Schedaddy_01.fe6aa3d6cce3ec0bcaa8.png",
     "static/media/Ch18-NoSQL_API.png": "/portfolio/static/media/Ch18-NoSQL_API.77736ecc9b6aff4afe71.png",
     "static/media/Ch13-ECommerce_API.png": "/portfolio/static/media/Ch13-ECommerce_API.955c0858a991dd5b0e63.png",
     "static/media/Ch14-TechBlog_01.png": "/portfolio/static/media/Ch14-TechBlog_01.b911caee8a7c26c79b87.png",
@@ -10,10 +11,10 @@
     "static/media/Ch12-EmpMgr_01.png": "/portfolio/static/media/Ch12-EmpMgr_01.d218f64952369c120ed5.png",
     "index.html": "/portfolio/index.html",
     "main.96d8609a.css.map": "/portfolio/static/css/main.96d8609a.css.map",
-    "main.a89f2776.js.map": "/portfolio/static/js/main.a89f2776.js.map"
+    "main.223773ad.js.map": "/portfolio/static/js/main.223773ad.js.map"
   },
   "entrypoints": [
     "static/css/main.96d8609a.css",
-    "static/js/main.a89f2776.js"
+    "static/js/main.223773ad.js"
   ]
 }
