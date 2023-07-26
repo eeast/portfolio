@@ -7,6 +7,14 @@ import './style.css'
 const ProjectList = () => {
     const projects = [
         {
+            name: "Schedaddy",
+            description: "Scheduling and Employee Management Web App",
+            tools: "Node, Express, MongoDB, React, GraphQL, JWT",
+            github: "https://github.com/cmcnamara15/Schedaddy",
+            deployedURL: "https://schedaddy-0dffdc6ab2cd.herokuapp.com/",
+            imgLink: images.schedaddyImg,
+        },
+        {
             name: "J.A.T.E.",
             description: "Just Another Text Editor",
             tools: "Node, Express, IndexedDB, Webpack, Workbox",
